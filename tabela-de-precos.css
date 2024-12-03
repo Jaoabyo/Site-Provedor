@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container-topo{
+ padding: 55px 0px;
+
+
+
+}
+.topo-logo{
+    position: absolute;
+    top: 35px;
+    width: 500px;
+}
+.topo-logo p{
+    font-weight: 600px;
+    color: #2f86dc;;
+}
+.topo-logo div{
+    
+    position: absolute;
+    top: 0;
+    left: 95px;
+
+}
+.topo-logo img{
+    width: 80px;
+    
+}
+
+.limitar-secao{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.topo-links{
+   position: absolute;
+top: 65px;
+right: 150px;
+}
+.topo-links a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #000000;
+    font-weight: 800px;
+    margin: 20px;
+}
+.tabela-de-precos{
+    padding: 120px;
+    background-color: #f1f7f7;
+    
+}
+.tabela-de-precos table{
+    padding: 30px;
+    border-radius: 4px;
+    margin: auto;
+    box-shadow: 0px 2px 40px 15px rgba(47,134,214,1);
+}
+table thead th {
+    text-align: center;
+    padding: 20px 0px;
+    background-color: #fcfcfc00;
+}
+table thead th p {
+    max-width: 150px;
+    margin: auto;
+    padding-top: 10px;
+    font-size: 13px;
+    font-weight: 500;
+ 
+}
+.rodape-logo{
+    position: relative;
+    padding: 40px 0px;
+    text-align: center;
+}
+.rodape-logo img{
+    width: 80px;
+    position: absolute;
+    left: 80px;
+
+}
+.rodape-logo div{
+    font-size: 12px;
+    position: absolute;
+    left: 180px;
+    top: 50px;
+}
+
+.rodape-logo p{
+    
+    color: #2f86dc;
+    font-weight: 700;
+}
+.copyright{
+    width: 700px;
+}
+.copyright p{
+    position: absolute;
+left: 450px;
+bottom: -90px;
+
+}
+td{padding: 9px;
+    color: black;
+    font-weight: 500;
+}
+table{
+    text-align: center;
+    background-color: #f1f3f7;
+}
+.color-xi{
+   background-color: rgba(177, 175, 175, 0.322);
+}
